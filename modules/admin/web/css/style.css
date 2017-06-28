@@ -1,0 +1,14 @@
+.click_hit, .click_new, .click_sale, .click_visible{
+	text-align: center;
+}
+.click_hit a, .click_new a, .click_sale a, .click_visible a{
+	padding: 5px;
+	border: 1px solid #c4cc61;
+}
+.click_hit a:hover, .click_new a:hover, .click_sale a:hover, .click_visible a:hover{
+	box-shadow: 0 0 5px #b0b29f;
+}
+.click_hit a:active, .click_new a:active, .click_sale a:active, .click_visible a:active{
+	border: 1px solid black;
+	box-shadow: 0;
+}
